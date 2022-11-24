@@ -1,3 +1,5 @@
+### Exp No: 06
+### Date: 25.10.2022
 # Named Entiry Recognition
 
 ## AIM
@@ -185,6 +187,15 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![i1](https://user-images.githubusercontent.com/75235704/198980817-d50cd084-d57a-4edc-8d3b-b836208f6ae2.png)
 ![i2](https://user-images.githubusercontent.com/75235704/198980827-28e71c53-41d5-40ce-be03-726163fcd65a.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Sample Text Prediction
